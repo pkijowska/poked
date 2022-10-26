@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-left: 20px;
+
+  &__form {
+    margin-bottom: 20px;
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
+
+.card {
+  max-width: 100px;
+  margin-right: 50px;
+  background: blanchedalmond;
+  margin-bottom: 50px;
+  padding: 30px 65px;
+  border-radius: 9px;
+  border: 5px solid rgb(231, 196, 143);
+  text-align: center;
+}
+
+h6 {
+  margin: 0;
+}
