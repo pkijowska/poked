@@ -19,7 +19,7 @@ const Pokemons = () => {
     const asyncFunction = async () => {
       try {
         const getPokemons = await fetch(
-          "https://pokeapi.co/api/v2/pokemon/?limit=1100"
+          "https://pokeapi.co/api/v2/pokemon/?limit=1154"
         );
         const pokemonsObj = await getPokemons.json();
 

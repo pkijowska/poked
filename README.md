@@ -12,4 +12,8 @@ Things I didn't have time for as per time limit:
 1. Individual page view (I would use react router and either use <Link> or useNavigate to navigate to different route).
 2. Unit test: I am comfortable working wiht Jest and Enzyme. I would test the Pokemon and Pokemons components, specifically I would mock the fetch API call and filter option. I would also add snapshot testing. 
 
+Final view: 
+ 
+![Screenshot](screenshot.png)
+
 ## I hope to hear from you! 
