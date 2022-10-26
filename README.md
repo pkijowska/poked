@@ -6,7 +6,7 @@ I was able to implement the following in the discussed time frame:
 1. Fetch data from API 
 2. Display pokemons info & details on the main page
 3. Add a filter form and filter pokemons
-4. Add basic styling so the view doesn't look too bad (but it isn't perfect)
+4. Add basic styling so the view doesn't look too bad (but it is still pretty basic :D )
 
 Things I didn't have time for as per time limit: 
 1. Individual page view (I would use react router and either use <Link> or useNavigate to navigate to different route).
